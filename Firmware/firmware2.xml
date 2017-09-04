@@ -179,7 +179,7 @@
         <urlpx4v2>http://firmware.ardupilot.org/Copter/stable/PX4-heli/ArduCopter-v2.px4</urlpx4v2>
         <urlpx4v3>http://firmware.ardupilot.org/Copter/stable/PX4-heli/ArduCopter-v3.px4</urlpx4v3>
         <urlpx4v4>http://firmware.ardupilot.org/Copter/stable/PX4-heli/ArduCopter-v4.px4</urlpx4v4>
-        <urlpx4v4>http://www.radiolink.com.cn/firmware/Helicopter/stable/ArduCopter-v4.px4</urlpx4rl>
+        <urlpx4rl>http://www.radiolink.com.cn/firmware/Helicopter/stable/ArduCopter-v4.px4</urlpx4rl>
         <urlvrbrainv45>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-heli/ArduCopter-vrbrain-v45.vrx</urlvrbrainv45>
         <urlvrbrainv51>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-heli/ArduCopter-vrbrain-v51.vrx</urlvrbrainv51>
         <urlvrbrainv52>http://www.radionav.it/portale/MissionPlanner/firmware/Copter/stable/VRX-heli/ArduCopter-vrbrain-v52.vrx</urlvrbrainv52>
